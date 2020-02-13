@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ecommerce app</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="buy">Buy</string>
+</resources>
